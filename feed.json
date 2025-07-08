@@ -1,0 +1,50 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Don Naylor",
+	"icon": "https://micro.blog/DonNaylor/avatar.jpg",
+	"home_page_url": "https://donaldnaylor.com/",
+	"feed_url": "https://donaldnaylor.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://canadaguy.micro.blog/2025/07/08/a-new-path-doing-the/",
+				
+				"content_html": "<p>A New Path</p>\n<p>Doing the same job you retired from is like eating leftovers. Tasty at first, but then predictably bland.  New path: find some fun and maybe fulfilment doing enjoyable things.  Joined a community choir, watched cheap Tuesday movies, walked trails by the river and got very busy.</p>\n",
+				"content_text": "A New Path\n\nDoing the same job you retired from is like eating leftovers. Tasty at first, but then predictably bland.  New path: find some fun and maybe fulfilment doing enjoyable things.  Joined a community choir, watched cheap Tuesday movies, walked trails by the river and got very busy. \n",
+				"date_published": "2025-07-08T18:46:11-04:00",
+				"url": "https://donaldnaylor.com/2025/07/08/a-new-path-doing-the/"
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/07/07/a-call-from-my-former/",
+				
+				"content_html": "<p>A call from my former employer gave me a short term reprieve from my transition in the form of a series of short-term contracts basically doing what I had pre-retirement, but with reduced  expectations and less accountability. Filling their gap also served to fill mine. Temporarily at least.</p>\n",
+				"content_text": "A call from my former employer gave me a short term reprieve from my transition in the form of a series of short-term contracts basically doing what I had pre-retirement, but with reduced  expectations and less accountability. Filling their gap also served to fill mine. Temporarily at least. \n",
+				"date_published": "2025-07-07T05:31:13-04:00",
+				"url": "https://donaldnaylor.com/2025/07/07/a-call-from-my-former/"
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/07/06/i-remember-my-first-post/",
+				
+				"content_html": "<p>I remember my first post retirement project: binging Netflix’s Lost series …. 6 seasons and 121 episodes.  Didn’t understand the ending, but a finish nonetheless. A series of unspectacular time-fillers followed showcased on social media with posts featuring cupcakes, treadmills, and balcony views.</p>\n",
+				"content_text": "I remember my first post retirement project: binging Netflix’s Lost series …. 6 seasons and 121 episodes.  Didn’t understand the ending, but a finish nonetheless. A series of unspectacular time-fillers followed showcased on social media with posts featuring cupcakes, treadmills, and balcony views. \n",
+				"date_published": "2025-07-06T07:07:34-04:00",
+				"url": "https://donaldnaylor.com/2025/07/06/i-remember-my-first-post/"
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/07/05/im-not-saying-a-chance/",
+				
+				"content_html": "<p>I’m not saying a chance to reset and repurpose isn’t a good thing.  For me, the transition was unexpectedly difficult. My work identity had mascaraded as real self and prioritized its needs for years. After the parties and well wishes, freedom’s glow lasted about two weeks.</p>\n",
+				"content_text": "I’m not saying a chance to reset and repurpose isn’t a good thing.  For me, the transition was unexpectedly difficult. My work identity had mascaraded as real self and prioritized its needs for years. After the parties and well wishes, freedom’s glow lasted about two weeks.\n",
+				"date_published": "2025-07-05T07:39:41-04:00",
+				"url": "https://donaldnaylor.com/2025/07/05/im-not-saying-a-chance/"
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/07/04/retirement-sucks-two-words-that/",
+				
+				"content_html": "<p>Retirement Sucks</p>\n<p>Two words that I never thought would fit together: retirement and sucks.  But it did.  Some days, while I was working, thinking about retirement helped me hang onto sanity.  Hang in there, I told myself.  One day my time will be my own … completely.  Be careful what you wish for.</p>\n",
+				"content_text": "Retirement Sucks\n\nTwo words that I never thought would fit together: retirement and sucks.  But it did.  Some days, while I was working, thinking about retirement helped me hang onto sanity.  Hang in there, I told myself.  One day my time will be my own … completely.  Be careful what you wish for.\n",
+				"date_published": "2025-07-04T22:19:07-04:00",
+				"url": "https://donaldnaylor.com/2025/07/04/retirement-sucks-two-words-that/"
+			}
+	]
+}
