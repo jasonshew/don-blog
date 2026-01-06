@@ -1,16 +1,123 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Don Naylor",
-	"icon": "https://avatars.micro.blog/avatars/2025/06/1727087.jpg",
+	"icon": "https://micro.blog/DonNaylor/avatar.jpg",
 	"home_page_url": "https://donaldnaylor.com/",
 	"feed_url": "https://donaldnaylor.com/feed.json",
 	"items": [
 		
 			{
+				"id": "http://canadaguy.micro.blog/2026/01/06/its-easy-to-believe-technology/",
+				
+				"content_html": "<p>It’s  easy to believe technology belongs to younger generations, but a growth mindset says otherwise. Learning to use technology isn’t about keeping up—it’s about staying connected. Video calls and group chats keep friendships alive. When we resist change and cling to old habits, the world can quietly grow smaller. Missed invitations, fading connections, and a sense of isolation can creep in. Approaching technology with curiosity and expectation builds confidence and independence. Getting older doesn’t mean shrinking your world; with a growth mindset, technology helps it expand—one connection at a time</p>\n",
+				"content_text": "It’s  easy to believe technology belongs to younger generations, but a growth mindset says otherwise. Learning to use technology isn’t about keeping up—it’s about staying connected. Video calls and group chats keep friendships alive. When we resist change and cling to old habits, the world can quietly grow smaller. Missed invitations, fading connections, and a sense of isolation can creep in. Approaching technology with curiosity and expectation builds confidence and independence. Getting older doesn’t mean shrinking your world; with a growth mindset, technology helps it expand—one connection at a time\n",
+				"date_published": "2026-01-06T08:46:01-04:00",
+				"url": "https://donaldnaylor.com/2026/01/06/its-easy-to-believe-technology/",
+				"tags": ["Finding Purpose"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2026/01/02/i-joined-a-fitness-club/",
+				
+				"content_html": "<p>I joined a fitness club a couple weeks ago which sounds like the typical New Year’s resolution  made by most middle-aged guys trying to reclaim what’s been lost.</p>\n<p>For me this isn’t about six-packs or personal bests. I’m not middle aged any more so my routine is gloriously simple. My goals are movement, flexibility, and getting my heart strong enough to enjoy life. I’d like to forgo the groaning every time I stand up.  Stretching, light cardio, upper/lower body weights: that’s my plan. And the possibility of a post workout massage chair is a definite plus. There’s nothing in the routine that’s dramatic or excessive except the soreness.</p>\n<p>Yes, I’m sore, but oddly, I’m enjoying it. I feel looser, steadier, and more energized. Turns out that moving my body is a great reminder that it still wants to work with me. So I’m slowly, steadily and purposefully moving into the new year, taking each day as it comes and working with the challenges it brings.</p>\n",
+				"content_text": "I joined a fitness club a couple weeks ago which sounds like the typical New Year’s resolution  made by most middle-aged guys trying to reclaim what’s been lost.  \n\nFor me this isn’t about six-packs or personal bests. I’m not middle aged any more so my routine is gloriously simple. My goals are movement, flexibility, and getting my heart strong enough to enjoy life. I’d like to forgo the groaning every time I stand up.  Stretching, light cardio, upper/lower body weights: that’s my plan. And the possibility of a post workout massage chair is a definite plus. There’s nothing in the routine that’s dramatic or excessive except the soreness.\n\nYes, I’m sore, but oddly, I’m enjoying it. I feel looser, steadier, and more energized. Turns out that moving my body is a great reminder that it still wants to work with me. So I’m slowly, steadily and purposefully moving into the new year, taking each day as it comes and working with the challenges it brings. \n",
+				"date_published": "2026-01-02T09:04:16-04:00",
+				"url": "https://donaldnaylor.com/2026/01/02/i-joined-a-fitness-club/",
+				"tags": ["Doing Stuff"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/12/25/did-a-cardio-workout-today/",
+				
+				"content_html": "<p>Did a cardio workout today and was wasted by the end of it. Beginner level, experienced coach with a no judgment approach.  I’ll be back even though my body says oh no you won’t.</p>\n",
+				"content_text": "Did a cardio workout today and was wasted by the end of it. Beginner level, experienced coach with a no judgment approach.  I’ll be back even though my body says oh no you won’t. \n",
+				"date_published": "2025-12-25T14:21:56-04:00",
+				"url": "https://donaldnaylor.com/2025/12/25/did-a-cardio-workout-today/",
+				"tags": ["Doing Stuff"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/12/10/theres-something-grounding-about-sitting/",
+				
+				"content_html": "<p>This morning I left my bed, made a coffee and plugged in the Christmas lights.  I sat quietly by the tree, immersed in memories of days past while snow fell and winds howled just beyond the glass. Outside, the weather might bring chaos, but inside I am content.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This morning I left my bed, made a coffee and plugged in the Christmas lights.  I sat quietly by the tree, immersed in memories of days past while snow fell and winds howled just beyond the glass. Outside, the weather might bring chaos, but inside I am content. \n\n<img src=\"uploads/2025/43293ea438.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-12-10T09:54:04-04:00",
+				"url": "https://donaldnaylor.com/2025/12/10/theres-something-grounding-about-sitting/",
+				"tags": ["Doing Stuff"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/12/01/every-year-i-struggle-to/",
+				
+				"content_html": "<p>Every year I struggle to find the motivation to decorate for Christmas.  But then up goes the tree and I feel festive enough to do my piece without hesitation or complaint. Ho ho ho…hum(bug).</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Every year I struggle to find the motivation to decorate for Christmas.  But then up goes the tree and I feel festive enough to do my piece without hesitation or complaint. Ho ho ho…hum(bug).\n\n<img src=\"uploads/2025/5ffc68883e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-12-01T11:21:50-04:00",
+				"url": "https://donaldnaylor.com/2025/12/01/every-year-i-struggle-to/",
+				"tags": ["Doing Stuff"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/11/27/im-navigating-a-learning-curve/",
+				
+				"content_html": "<p>I’m navigating a learning curve.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m navigating a learning curve. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/88c5a99834.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-11-27T08:23:25-04:00",
+				"url": "https://donaldnaylor.com/2025/11/27/im-navigating-a-learning-curve/",
+				"tags": ["Doing Stuff"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/11/14/i-took-a-trip-out/",
+				
+				"content_html": "<p>I took a trip out to Okotos, Alberta recently and ended up at a baseball game at Seaman Stadium, home of the Okotos Dawgs. It’s a great spot to watch a game, but what really caught my attention wasn’t the baseball, it was two words painted right on the field: “Don 100.”</p>\n<p>I had no idea what that meant at the time. Later I learned the stadium was built by Don Seaman, a local philanthropist who had a personal goal to live to 100. He actually missed it by just 17 days, which somehow makes the whole thing even more inspiring.</p>\n<p>When I first sat down in those stands, I’ll be honest. I was feeling every ache, every creak, every reminder that I’m not exactly getting younger. I wasn’t thinking about big dreams or long futures. More like wondering why my body seems to have developed its own collection of sound effects.</p>\n<p>But sitting there, staring at “Don 100,” something shifted. Here was a guy who set a huge goal for himself and chased it with everything he had. He didn’t quite make it, but he lived toward it.</p>\n<p>And meanwhile, I was sitting there… kind of wallowing.</p>\n<p>So I made a decision, nothing dramatic, just a quiet promise to myself. I might not care about hitting 100, but I do care about making the years I have feel more like something I’m actively living, not just drifting through. Less worrying about what I’ve lost, more focusing on what I can regain, maintain, explore, or just appreciate.</p>\n<p>Don Seaman didn’t reach his goal, but he reached for it. And that’s the part that stuck with me.</p>\n<p>Funny how a baseball game can give you a little nudge to get moving again</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I took a trip out to Okotos, Alberta recently and ended up at a baseball game at Seaman Stadium, home of the Okotos Dawgs. It’s a great spot to watch a game, but what really caught my attention wasn’t the baseball, it was two words painted right on the field: “Don 100.”\n\nI had no idea what that meant at the time. Later I learned the stadium was built by Don Seaman, a local philanthropist who had a personal goal to live to 100. He actually missed it by just 17 days, which somehow makes the whole thing even more inspiring.\n\nWhen I first sat down in those stands, I’ll be honest. I was feeling every ache, every creak, every reminder that I’m not exactly getting younger. I wasn’t thinking about big dreams or long futures. More like wondering why my body seems to have developed its own collection of sound effects.\n\nBut sitting there, staring at “Don 100,” something shifted. Here was a guy who set a huge goal for himself and chased it with everything he had. He didn’t quite make it, but he lived toward it.\n\nAnd meanwhile, I was sitting there… kind of wallowing.\n\nSo I made a decision, nothing dramatic, just a quiet promise to myself. I might not care about hitting 100, but I do care about making the years I have feel more like something I’m actively living, not just drifting through. Less worrying about what I’ve lost, more focusing on what I can regain, maintain, explore, or just appreciate.\n\nDon Seaman didn’t reach his goal, but he reached for it. And that’s the part that stuck with me.\n\nFunny how a baseball game can give you a little nudge to get moving again\n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/b0ce134c9c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-11-14T09:35:44-04:00",
+				"url": "https://donaldnaylor.com/2025/11/14/i-took-a-trip-out/",
+				"tags": ["Finding Purpose"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/11/11/snow-blankets-the-street-with/",
+				
+				"content_html": "<p>Snow blankets the street with transformative beauty. The promise of fresh starts and renewed hopes.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Snow blankets the street with transformative beauty. The promise of fresh starts and renewed hopes. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/12d34ae827.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-11-11T08:26:16-04:00",
+				"url": "https://donaldnaylor.com/2025/11/11/snow-blankets-the-street-with/"
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/11/07/bribed-myself-into-a-walk/",
+				
+				"content_html": "<p>Bribed myself into a walk today with the promise of a pitstop at my neighborhood treatery.  Once there, my eyes devoured all the sumptuous options, but I was happy with just a coffee. I am such a liar.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bribed myself into a walk today with the promise of a pitstop at my neighborhood treatery.  Once there, my eyes devoured all the sumptuous options, but I was happy with just a coffee. I am such a liar. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/52bba6c5ec.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-11-07T14:09:48-04:00",
+				"url": "https://donaldnaylor.com/2025/11/07/bribed-myself-into-a-walk/",
+				"tags": ["Walking Around"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/11/02/notable-by-his-absence-in/",
+				
+				"content_html": "<p>Notable by his absence in this photo is me.  It’s sadly funny how I can be so invested in doing something and a couple months later not even making an effort.  Well, perhaps this little post is the first step in kickstarting my mobility goal once again.  We will see.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Notable by his absence in this photo is me.  It’s sadly funny how I can be so invested in doing something and a couple months later not even making an effort.  Well, perhaps this little post is the first step in kickstarting my mobility goal once again.  We will see. \n\n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/d90d51a6d4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-11-02T14:49:20-04:00",
+				"url": "https://donaldnaylor.com/2025/11/02/notable-by-his-absence-in/",
+				"tags": ["Finding Purpose","Walking Around","Doing Stuff"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/10/25/opportunities-abound-when-you-live/",
+				
+				"content_html": "<p>Opportunities abound when you live downtown. Last night, in a candlelit sanctuary, we were immersed in the music of ABBA.  The Vintera String Quartet filled our hearts with joyful sound.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Opportunities abound when you live downtown. Last night, in a candlelit sanctuary, we were immersed in the music of ABBA.  The Vintera String Quartet filled our hearts with joyful sound. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/9419cf9f84.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-10-25T10:37:26-04:00",
+				"url": "https://donaldnaylor.com/2025/10/25/opportunities-abound-when-you-live/",
+				"tags": ["Doing Stuff"]
+			},
+			{
+				"id": "http://canadaguy.micro.blog/2025/10/19/despite-the-category-this-guy/",
+				
+				"content_html": "<p>Despite the category, this guy is not walking around today. My knee is protesting the whole walking around concept. Random body parts are taking turns reminding me that I’m not 35.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Despite the category, this guy is not walking around today. My knee is protesting the whole walking around concept. Random body parts are taking turns reminding me that I’m not 35. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/e5fd51cb81.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-10-19T12:16:35-04:00",
+				"url": "https://donaldnaylor.com/2025/10/19/despite-the-category-this-guy/",
+				"tags": ["Walking Around"]
+			},
+			{
 				"id": "http://canadaguy.micro.blog/2025/10/15/a-new-perspective-on-something/",
 				
-				"content_html": "<p>A new perspective on something familiar. Reminders for me this morning of the value of seeing something from a new point of view.   Of actually  listening to what someone is telling me instead of dismissing their thoughts and opinions as wrong.</p>\n<img src=\"uploads/2025/9a896e7f22.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "A new perspective on something familiar. Reminders for me this morning of the value of seeing something from a new point of view.   Of actually  listening to what someone is telling me instead of dismissing their thoughts and opinions as wrong. \n\n<img src=\"uploads/2025/9a896e7f22.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>A new perspective on something familiar. Reminders for me this morning of the value of seeing something from a new point of view.   Of actually  listening to what someone is telling me instead of dismissing their thoughts and opinions as wrong.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A new perspective on something familiar. Reminders for me this morning of the value of seeing something from a new point of view.   Of actually  listening to what someone is telling me instead of dismissing their thoughts and opinions as wrong. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/9a896e7f22.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-10-15T06:51:36-04:00",
 				"url": "https://donaldnaylor.com/2025/10/15/a-new-perspective-on-something/",
 				"tags": ["Walking Around"]
@@ -18,8 +125,8 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/10/13/ill-miss-these-marina-views/",
 				
-				"content_html": "<p>I’ll miss these marina views.  RV season is drawing to a close. Daylight hours are shrinking and nighttime’s temperatures are visualizing our breath as we burrow beneath the blankets in our bed.</p>\n<img src=\"uploads/2025/5152c39976.jpg\" width=\"352\" height=\"600\" alt=\"I’ll miss views like this at the marina.  RV season is drawing to a close. The daylight hours are growing shorter and the nights have become cold enough to visualize our breath as we burrow beneath the blankets in our bed.  \">\n",
-				"content_text": "I’ll miss these marina views.  RV season is drawing to a close. Daylight hours are shrinking and nighttime’s temperatures are visualizing our breath as we burrow beneath the blankets in our bed. \n\n<img src=\"uploads/2025/5152c39976.jpg\" width=\"352\" height=\"600\" alt=\"I’ll miss views like this at the marina.  RV season is drawing to a close. The daylight hours are growing shorter and the nights have become cold enough to visualize our breath as we burrow beneath the blankets in our bed.  \">\n",
+				"content_html": "<p>I’ll miss these marina views.  RV season is drawing to a close. Daylight hours are shrinking and nighttime’s temperatures are visualizing our breath as we burrow beneath the blankets in our bed.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’ll miss these marina views.  RV season is drawing to a close. Daylight hours are shrinking and nighttime’s temperatures are visualizing our breath as we burrow beneath the blankets in our bed. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/5152c39976.jpg\" width=\"352\" height=\"600\" alt=\"I’ll miss views like this at the marina.  RV season is drawing to a close. The daylight hours are growing shorter and the nights have become cold enough to visualize our breath as we burrow beneath the blankets in our bed.  \">\n",
 				"date_published": "2025-10-13T23:42:28-04:00",
 				"url": "https://donaldnaylor.com/2025/10/13/ill-miss-these-marina-views/",
 				"tags": ["Doing Stuff"]
@@ -27,8 +134,8 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/10/11/happy-thanksgiving-this-weekend-im/",
 				
-				"content_html": "<p>Happy Thanksgiving! This weekend, I’m celebrating family, friends and all the good things that fill my life with meaningful purpose.  We may feast on food, for sure, but we also feast on the bountiful relationships and resources that are possible because of the freedoms we have in this great country.</p>\n<img src=\"uploads/2025/22a7484496.jpg\" width=\"539\" height=\"600\" alt=\"\">\n",
-				"content_text": "Happy Thanksgiving! This weekend, I’m celebrating family, friends and all the good things that fill my life with meaningful purpose.  We may feast on food, for sure, but we also feast on the bountiful relationships and resources that are possible because of the freedoms we have in this great country. \n\n<img src=\"uploads/2025/22a7484496.jpg\" width=\"539\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Happy Thanksgiving! This weekend, I’m celebrating family, friends and all the good things that fill my life with meaningful purpose.  We may feast on food, for sure, but we also feast on the bountiful relationships and resources that are possible because of the freedoms we have in this great country.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy Thanksgiving! This weekend, I’m celebrating family, friends and all the good things that fill my life with meaningful purpose.  We may feast on food, for sure, but we also feast on the bountiful relationships and resources that are possible because of the freedoms we have in this great country. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/22a7484496.jpg\" width=\"539\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-10-11T14:53:35-04:00",
 				"url": "https://donaldnaylor.com/2025/10/11/happy-thanksgiving-this-weekend-im/",
 				"tags": ["Finding Purpose"]
@@ -36,8 +143,8 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/10/09/i-am-such-a-chicken/",
 				
-				"content_html": "<p>I am such a chicken. Signs like this make me want to hightail it back to the car and just go home. Or maybe become one of the gray heads  walking circuits at the nearby mall, dodging shoppers and wondering why my feet are killing me.  On this day, however, I kept on walking, passed the sign and entered the woods.</p>\n<img src=\"uploads/2025/0013edd438.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "I am such a chicken. Signs like this make me want to hightail it back to the car and just go home. Or maybe become one of the gray heads  walking circuits at the nearby mall, dodging shoppers and wondering why my feet are killing me.  On this day, however, I kept on walking, passed the sign and entered the woods. \n\n<img src=\"uploads/2025/0013edd438.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I am such a chicken. Signs like this make me want to hightail it back to the car and just go home. Or maybe become one of the gray heads  walking circuits at the nearby mall, dodging shoppers and wondering why my feet are killing me.  On this day, however, I kept on walking, passed the sign and entered the woods.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I am such a chicken. Signs like this make me want to hightail it back to the car and just go home. Or maybe become one of the gray heads  walking circuits at the nearby mall, dodging shoppers and wondering why my feet are killing me.  On this day, however, I kept on walking, passed the sign and entered the woods. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/0013edd438.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-10-09T11:51:00-04:00",
 				"url": "https://donaldnaylor.com/2025/10/09/i-am-such-a-chicken/",
 				"tags": ["Walking Around"]
@@ -45,8 +152,8 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/10/07/i-had-completely-forgotten-about/",
 				
-				"content_html": "<p>I had completely forgotten about this  walking trail.  As I walked it the other day I determined to visit it regularly. All Trails app makes it easy to see where you’re going and how long it will take you to get there.  There will be no need for search parties to rescue this directionally challenged trail walker.</p>\n<img src=\"uploads/2025/720c85d618.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "I had completely forgotten about this  walking trail.  As I walked it the other day I determined to visit it regularly. All Trails app makes it easy to see where you’re going and how long it will take you to get there.  There will be no need for search parties to rescue this directionally challenged trail walker. \n\n<img src=\"uploads/2025/720c85d618.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>I had completely forgotten about this  walking trail.  As I walked it the other day I determined to visit it regularly. All Trails app makes it easy to see where you’re going and how long it will take you to get there.  There will be no need for search parties to rescue this directionally challenged trail walker.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I had completely forgotten about this  walking trail.  As I walked it the other day I determined to visit it regularly. All Trails app makes it easy to see where you’re going and how long it will take you to get there.  There will be no need for search parties to rescue this directionally challenged trail walker. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/720c85d618.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-10-07T19:58:25-04:00",
 				"url": "https://donaldnaylor.com/2025/10/07/i-had-completely-forgotten-about/",
 				"tags": ["Walking Around"]
@@ -54,7 +161,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/10/05/this-is-likely-the-last/",
 				
-				"content_html": "<p>This is likely the last camp fire of the season. We bought our RV as an escape during Covid and have never regretted it. Four years later, we’re settled in and enjoy having a closeby retreat from our somewhat hectic life.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/92d2489c8f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>This is likely the last camp fire of the season. We bought our RV as an escape during Covid and have never regretted it. Four years later, we’re settled in and enjoy having a closeby retreat from our somewhat hectic life.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This is likely the last camp fire of the season. We bought our RV as an escape during Covid and have never regretted it. Four years later, we’re settled in and enjoy having a closeby retreat from our somewhat hectic life. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/92d2489c8f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-10-05T10:55:24-04:00",
 				"url": "https://donaldnaylor.com/2025/10/05/this-is-likely-the-last/",
@@ -63,7 +170,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/10/03/saw-this-little-guy-on/",
 				
-				"content_html": "<p>Saw this little guy on our walk this morning. No clue what type of insect it is, but will no doubt see more like it in the coming days till the weather gets cooler.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/c9ac3ebcdf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Saw this little guy on our walk this morning. No clue what type of insect it is, but will no doubt see more like it in the coming days till the weather gets cooler.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Saw this little guy on our walk this morning. No clue what type of insect it is, but will no doubt see more like it in the coming days till the weather gets cooler. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/c9ac3ebcdf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-10-03T17:43:01-04:00",
 				"url": "https://donaldnaylor.com/2025/10/03/saw-this-little-guy-on/",
@@ -72,7 +179,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/10/02/you-know-youre-moving-slowly/",
 				
-				"content_html": "<p>You know you’re moving slowly when …..</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/7f5e396d5e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>You know you’re moving slowly when …..</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "You know you’re moving slowly when …..\n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/7f5e396d5e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-10-02T15:56:01-04:00",
 				"url": "https://donaldnaylor.com/2025/10/02/you-know-youre-moving-slowly/",
@@ -81,7 +188,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/30/id-forgotten-how-nourishing-it/",
 				
-				"content_html": "<p>I’d forgotten how nourishing it is to sit quietly and watch the city wind down.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/2f86182422.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I’d forgotten how nourishing it is to sit quietly and watch the city wind down.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I’d forgotten how nourishing it is to sit quietly and watch the city wind down. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/2f86182422.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-30T08:00:46-04:00",
 				"url": "https://donaldnaylor.com/2025/09/30/id-forgotten-how-nourishing-it/",
@@ -90,7 +197,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/27/i-know-that-i-am/",
 				
-				"content_html": "<p>I know that I am prone to enthused exaggeration, but on my walk today I saw the most beautiful tree in the park. Before you judge me, know that  I already have tempered my remarks for I really wanted to say that on my walk today I saw the most beautiful tree in the whole wide world.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/80179df030.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I know that I am prone to enthused exaggeration, but on my walk today I saw the most beautiful tree in the park. Before you judge me, know that  I already have tempered my remarks for I really wanted to say that on my walk today I saw the most beautiful tree in the whole wide world.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I know that I am prone to enthused exaggeration, but on my walk today I saw the most beautiful tree in the park. Before you judge me, know that  I already have tempered my remarks for I really wanted to say that on my walk today I saw the most beautiful tree in the whole wide world.  \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/80179df030.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-27T13:03:52-04:00",
 				"url": "https://donaldnaylor.com/2025/09/27/i-know-that-i-am/",
@@ -99,7 +206,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/26/life-can-be-a-soulsucking/",
 				
-				"content_html": "<p>Life can be a soul-sucking rush with days filled fetching and toting, going and coming, planning and revising.  Days end with fitful sleep and new ones begin with schedules already super-saturated. Pause, oh Self. There’s value and balance to be found in solitude, stillness and contemplation.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/2b91da54a1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Life can be a soul-sucking rush with days filled fetching and toting, going and coming, planning and revising.  Days end with fitful sleep and new ones begin with schedules already super-saturated. Pause, oh Self. There’s value and balance to be found in solitude, stillness and contemplation.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Life can be a soul-sucking rush with days filled fetching and toting, going and coming, planning and revising.  Days end with fitful sleep and new ones begin with schedules already super-saturated. Pause, oh Self. There’s value and balance to be found in solitude, stillness and contemplation. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/2b91da54a1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-26T09:43:03-04:00",
 				"url": "https://donaldnaylor.com/2025/09/26/life-can-be-a-soulsucking/",
@@ -108,7 +215,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/25/im-waiting-in-a-line/",
 				
-				"content_html": "<p>I’m waiting in a weaving line with crowds of people ahead of me. Rain might be coming; the air is heavy and moist. The arena doors won’t open for another half hour at least and I could easily succumb to impatience, discouragement or annoyance. Then I look up and suddenly I’m lost in the sky’s beautiful immensity.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/0a6b125f2e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I’m waiting in a weaving line with crowds of people ahead of me. Rain might be coming; the air is heavy and moist. The arena doors won’t open for another half hour at least and I could easily succumb to impatience, discouragement or annoyance. Then I look up and suddenly I’m lost in the sky’s beautiful immensity.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I’m waiting in a weaving line with crowds of people ahead of me. Rain might be coming; the air is heavy and moist. The arena doors won’t open for another half hour at least and I could easily succumb to impatience, discouragement or annoyance. Then I look up and suddenly I’m lost in the sky’s beautiful immensity. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/0a6b125f2e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-25T08:53:22-04:00",
 				"url": "https://donaldnaylor.com/2025/09/25/im-waiting-in-a-line/",
@@ -117,7 +224,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/24/a-stately-old-church-in/",
 				
-				"content_html": "<p>A stately old church in the heart of downtown London.  Built in 1869, an architectural example of Gothic Revival, with a prominent tower and steeple, pointed arches and lots of stained glass.  Why does a beautiful church setting more easily inspire reverence for me?</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/f69509b026.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>A stately old church in the heart of downtown London.  Built in 1869, an architectural example of Gothic Revival, with a prominent tower and steeple, pointed arches and lots of stained glass.  Why does a beautiful church setting more easily inspire reverence for me?</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A stately old church in the heart of downtown London.  Built in 1869, an architectural example of Gothic Revival, with a prominent tower and steeple, pointed arches and lots of stained glass.  Why does a beautiful church setting more easily inspire reverence for me? \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/f69509b026.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-24T16:57:37-04:00",
 				"url": "https://donaldnaylor.com/2025/09/24/a-stately-old-church-in/",
@@ -126,7 +233,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/23/i-love-walking-in-the/",
 				
-				"content_html": "<p>I love walking in the Fall.  The cool temperatures, colourful leaves and quiet stillness make me want to linger on the pathway.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/bc40607b71.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I love walking in the Fall.  The cool temperatures, colourful leaves and quiet stillness make me want to linger on the pathway.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I love walking in the Fall.  The cool temperatures, colourful leaves and quiet stillness make me want to linger on the pathway. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/bc40607b71.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-23T06:20:26-04:00",
 				"url": "https://donaldnaylor.com/2025/09/23/i-love-walking-in-the/",
@@ -135,7 +242,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/22/took-a-ride-with-the/",
 				
-				"content_html": "<p>Took a ride with the family in an open car on this old diesel from the 1950s.   The scenic ride from the Port Stanley terminal to the boundary of St. Thomas lasted about an hour.  It was a perfect way to celebrate the 87th birthday of a life-long  railway enthusiast.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/6cf6c922f1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Took a ride with the family in an open car on this old diesel from the 1950s.   The scenic ride from the Port Stanley terminal to the boundary of St. Thomas lasted about an hour.  It was a perfect way to celebrate the 87th birthday of a life-long  railway enthusiast.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Took a ride with the family in an open car on this old diesel from the 1950s.   The scenic ride from the Port Stanley terminal to the boundary of St. Thomas lasted about an hour.  It was a perfect way to celebrate the 87th birthday of a life-long  railway enthusiast. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/6cf6c922f1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-22T06:39:26-04:00",
 				"url": "https://donaldnaylor.com/2025/09/22/took-a-ride-with-the/",
@@ -144,7 +251,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/21/viewing-the-city-from-the/",
 				
-				"content_html": "<p>Viewing the city from the top of city hall. A great reminder that a bird’s eye view provides a different perspective.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/f1974bf4b3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Viewing the city from the top of city hall. A great reminder that a bird’s eye view provides a different perspective.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Viewing the city from the top of city hall. A great reminder that a bird’s eye view provides a different perspective. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/f1974bf4b3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-21T07:16:25-04:00",
 				"url": "https://donaldnaylor.com/2025/09/21/viewing-the-city-from-the/",
@@ -153,7 +260,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/20/explored-central-librarys-rotary-garden/",
 				
-				"content_html": "<p>Explored Central Library’s Rotary  Garden, a secret oasis in the midst of  downtown London.  Lots of shady places to sit, read and bask in tranquility.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/4d20ce808a.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Explored Central Library’s Rotary  Garden, a secret oasis in the midst of  downtown London.  Lots of shady places to sit, read and bask in tranquility.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Explored Central Library’s Rotary  Garden, a secret oasis in the midst of  downtown London.  Lots of shady places to sit, read and bask in tranquility. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/4d20ce808a.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-20T20:20:16-04:00",
 				"url": "https://donaldnaylor.com/2025/09/20/explored-central-librarys-rotary-garden/",
@@ -162,7 +269,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/17/downtown-shortcuts-and-passages/",
 				
-				"content_html": "<p>Downtown shortcuts and passages.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/6d5969a4e0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Downtown shortcuts and passages.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Downtown shortcuts and passages. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/6d5969a4e0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-17T17:18:49-04:00",
 				"url": "https://donaldnaylor.com/2025/09/17/downtown-shortcuts-and-passages/",
@@ -171,7 +278,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/16/never-alone-on-my-walks/",
 				
-				"content_html": "<p>Never alone on my walks downtown.</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/fa59c41ddf.jpg\">\n",
+				"content_html": "<p>Never alone on my walks downtown.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Never alone on my walks downtown. \n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/fa59c41ddf.jpg\">\n",
 				"date_published": "2025-09-16T22:12:50-04:00",
 				"url": "https://donaldnaylor.com/2025/09/16/never-alone-on-my-walks/",
@@ -180,7 +287,7 @@
 			{
 				"id": "http://canadaguy.micro.blog/2025/09/15/walking-the-pathway-along-the/",
 				
-				"content_html": "<p>Walking the pathway along the Thames River.  Mood upswing on its way. #10ksteps</p>\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/image.jpg\">\n",
+				"content_html": "<p>Walking the pathway along the Thames River.  Mood upswing on its way. #10ksteps</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Walking the pathway along the Thames River.  Mood upswing on its way. #10ksteps\n\n<img src=\"https://cdn.uploads.micro.blog/205307/2025/image.jpg\">\n",
 				"date_published": "2025-09-15T08:01:28-04:00",
 				"url": "https://donaldnaylor.com/2025/09/15/walking-the-pathway-along-the/",
